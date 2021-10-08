@@ -1,3 +1,4 @@
+import {getPost, getRandomPic} from './helpers.js';
 const params; // tempat menampung parameter yang ada
 
 const elPageTitle = document.querySelector('#page-title');
